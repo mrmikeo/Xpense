@@ -2,7 +2,7 @@ package main
 
 import (
 	"fmt"
-	"github.com/mrmikeo/Xpense/cmd/sonictool/genesis"
+	"github.com/mrmikeo/Xpense/cmd/xpensetool/genesis"
 	ogenesis "github.com/mrmikeo/Xpense/opera/genesis"
 	"github.com/mrmikeo/Xpense/opera/genesisstore"
 	"github.com/ethereum/go-ethereum/common/hexutil"
