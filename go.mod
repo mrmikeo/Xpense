@@ -1,4 +1,4 @@
-module github.com/Fantom-foundation/go-opera
+module github.com/mrmikeo/Xpense
 
 go 1.21
 
