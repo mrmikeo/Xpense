@@ -1,5 +1,5 @@
 .PHONY: all
-all: sonicd sonictool
+all: xpsensed xpensetool
 
 GOPROXY ?= "https://proxy.golang.org,direct"
 .PHONY: xpsensed xpensetool
