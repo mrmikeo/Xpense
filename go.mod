@@ -3,7 +3,6 @@ module github.com/mrmikeo/Xpense
 go 1.21
 
 require (
-	github.com/mrmikeo/Xpense v1.1.3-rc.5
 	github.com/Fantom-foundation/lachesis-base v0.0.0-20240116072301-a75735c4ef00
 	github.com/allegro/bigcache v1.2.1 // indirect
 	github.com/certifi/gocertifi v0.0.0-20191021191039-0944d244cd40 // indirect
