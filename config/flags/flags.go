@@ -17,7 +17,7 @@
 package flags
 
 import (
-	"github.com/Fantom-foundation/go-opera/gossip"
+	"github.com/mrmikeo/Xpense/gossip"
 	"github.com/Fantom-foundation/lachesis-base/utils/cachescale"
 	pcsclite "github.com/gballet/go-libpcsclite"
 	"gopkg.in/urfave/cli.v1"
