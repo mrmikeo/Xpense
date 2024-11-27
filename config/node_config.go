@@ -3,7 +3,7 @@ package config
 import (
 	"crypto/ecdsa"
 	"fmt"
-	"github.com/Fantom-foundation/go-opera/config/flags"
+	"github.com/mrmikeo/Xpense/config/flags"
 	"github.com/ethereum/go-ethereum/crypto"
 	"github.com/ethereum/go-ethereum/log"
 	"github.com/ethereum/go-ethereum/node"
