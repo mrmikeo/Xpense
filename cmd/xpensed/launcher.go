@@ -163,8 +163,8 @@ func initApp() {
 	initFlags()
 
 	app = cli.NewApp()
-	app.Name = "sonicd"
-	app.Usage = "the Sonic network client"
+	app.Name = "xpensed"
+	app.Usage = "the Xpense network client"
 	app.Version = params.VersionWithCommit(config.GitCommit, config.GitDate)
 	app.Action = lachesisMain
 	app.HideVersion = true // we have a command to print the version
