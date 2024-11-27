@@ -18,8 +18,8 @@ package main
 
 import (
 	"fmt"
-	"github.com/Fantom-foundation/go-opera/config"
-	"github.com/Fantom-foundation/go-opera/config/flags"
+	"github.com/mrmikeo/Xpense/config"
+	"github.com/mrmikeo/Xpense/config/flags"
 	"github.com/ethereum/go-ethereum/accounts/keystore"
 	"github.com/ethereum/go-ethereum/node"
 	"gopkg.in/urfave/cli.v1"
