@@ -3,7 +3,7 @@ package main
 import (
 	"compress/gzip"
 	"fmt"
-	"github.com/mrmikeo/Xpense/cmd/sonictool/chain"
+	"github.com/mrmikeo/Xpense/cmd/xpensetool/chain"
 	"github.com/mrmikeo/Xpense/config/flags"
 	"github.com/Fantom-foundation/lachesis-base/inter/idx"
 	"github.com/ethereum/go-ethereum/log"
