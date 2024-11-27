@@ -19,7 +19,7 @@
 package main
 
 import (
-	"github.com/mrmikeo/Xpense/cmd/sonicd/cmdhelper"
+	"github.com/mrmikeo/Xpense/cmd/xpensed/cmdhelper"
 	"github.com/mrmikeo/Xpense/config"
 	"io"
 	"sort"
