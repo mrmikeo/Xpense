@@ -2,7 +2,7 @@ package genesis
 
 import (
 	"fmt"
-	"github.com/mrmikeo/Xpense/cmd/sonictool/db"
+	"github.com/mrmikeo/Xpense/cmd/xpensetool/db"
 	"github.com/mrmikeo/Xpense/opera/genesis"
 	"github.com/mrmikeo/Xpense/opera/genesisstore"
 	"github.com/Fantom-foundation/lachesis-base/abft"
