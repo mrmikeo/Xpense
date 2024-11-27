@@ -18,7 +18,7 @@ xpensetool:
 	GOPROXY=$(GOPROXY) \
 	go build \
 	    -ldflags "-s -w -X github.com/Fantom-foundation/go-opera/config.GitCommit=$${GIT_COMMIT} -X github.com/Fantom-foundation/go-opera/config.GitDate=$${GIT_DATE}" \
-	    -o build/xpsensed \
+	    -o build/xpensetool \
 	    ./cmd/xpensetool
 
 TAG ?= "latest"
