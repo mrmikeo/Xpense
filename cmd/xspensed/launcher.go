@@ -2,11 +2,11 @@ package main
 
 import (
 	"fmt"
-	"github.com/Fantom-foundation/go-opera/cmd/sonicd/diskusage"
-	"github.com/Fantom-foundation/go-opera/cmd/sonicd/metrics"
-	"github.com/Fantom-foundation/go-opera/cmd/sonicd/tracing"
-	"github.com/Fantom-foundation/go-opera/config"
-	"github.com/Fantom-foundation/go-opera/config/flags"
+	"github.com/mrmikeo/Xpense/cmd/sonicd/diskusage"
+	"github.com/mrmikeo/Xpense/cmd/sonicd/metrics"
+	"github.com/mrmikeo/Xpense/cmd/sonicd/tracing"
+	"github.com/mrmikeo/Xpense/config"
+	"github.com/mrmikeo/Xpense/config/flags"
 	"github.com/ethereum/go-ethereum/eth/ethconfig"
 	"github.com/ethereum/go-ethereum/params"
 	"os"
@@ -25,8 +25,8 @@ import (
 
 	ethmetrics "github.com/ethereum/go-ethereum/metrics"
 
-	"github.com/Fantom-foundation/go-opera/debug"
-	_ "github.com/Fantom-foundation/go-opera/version"
+	"github.com/mrmikeo/Xpense/debug"
+	_ "github.com/mrmikeo/Xpense/version"
 )
 
 var (
