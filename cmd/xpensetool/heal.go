@@ -8,7 +8,7 @@ import (
 	"github.com/Fantom-foundation/Carmen/go/database/mpt"
 	io2 "github.com/Fantom-foundation/Carmen/go/database/mpt/io"
 	mptio "github.com/Fantom-foundation/Carmen/go/database/mpt/io"
-	"github.com/mrmikeo/Xpense/cmd/sonictool/db"
+	"github.com/mrmikeo/Xpense/cmd/xpensetool/db"
 	"github.com/mrmikeo/Xpense/config"
 	"github.com/mrmikeo/Xpense/config/flags"
 	"github.com/Fantom-foundation/lachesis-base/inter/idx"
