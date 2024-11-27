@@ -26,7 +26,7 @@ import (
 
 	cli "gopkg.in/urfave/cli.v1"
 
-	"github.com/Fantom-foundation/go-opera/debug"
+	"github.com/mrmikeo/Xpense/debug"
 )
 
 // AppHelpFlagGroups is the application flags, grouped by functionality.
