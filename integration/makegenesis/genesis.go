@@ -28,8 +28,8 @@ import (
 	"github.com/mrmikeo/Xpense/inter/ier"
 	"github.com/mrmikeo/Xpense/inter/state"
 	"github.com/mrmikeo/Xpense/opera"
-	"github.com/mrmikeo/Xpense/genesis"
-	"github.com/mrmikeo/Xpense/genesisstore"
+	"github.com/mrmikeo/Xpense/opera/genesis"
+	"github.com/mrmikeo/Xpense/opera/genesisstore"
 
 	mptIo "github.com/Fantom-foundation/Carmen/go/database/mpt/io"
 	carmen "github.com/Fantom-foundation/Carmen/go/state"
