@@ -17,7 +17,7 @@ import (
 	"github.com/mrmikeo/Xpense/inter/state"
 	"github.com/mrmikeo/Xpense/inter/validatorpk"
 	"github.com/mrmikeo/Xpense/opera"
-	"github.com/mrmikeo/Xpense/contracts/driver"
+	"github.com/mrmikeo/Xpense/opera/contracts/driver"
 	"github.com/mrmikeo/Xpense/opera/contracts/driver/drivercall"
 	"github.com/mrmikeo/Xpense/opera/contracts/driver/driverpos"
 )
