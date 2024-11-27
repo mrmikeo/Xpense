@@ -24,9 +24,9 @@ import (
 	"github.com/ethereum/go-ethereum/params"
 	"math/big"
 
-	"github.com/Fantom-foundation/go-opera/inter"
-	"github.com/Fantom-foundation/go-opera/inter/state"
-	"github.com/Fantom-foundation/go-opera/opera"
+	"github.com/mrmikeo/Xpense/inter"
+	"github.com/mrmikeo/Xpense/inter/state"
+	"github.com/mrmikeo/Xpense/opera"
 )
 
 // BlockGen creates blocks for testing.
