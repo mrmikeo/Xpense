@@ -1,7 +1,7 @@
 package chain
 
 import (
-	"github.com/mrmikeo/Xpense/cmd/sonictool/db"
+	"github.com/mrmikeo/Xpense/cmd/xpensetool/db"
 	"github.com/Fantom-foundation/lachesis-base/utils/cachescale"
 	"io"
 	"path/filepath"
