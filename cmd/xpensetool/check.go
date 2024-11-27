@@ -3,8 +3,8 @@ package main
 import (
 	"context"
 	"fmt"
-	"github.com/Fantom-foundation/go-opera/cmd/sonictool/check"
-	"github.com/Fantom-foundation/go-opera/config/flags"
+	"github.com/mrmikeo/Xpense/cmd/sonictool/check"
+	"github.com/mrmikeo/Xpense/config/flags"
 	"gopkg.in/urfave/cli.v1"
 	"os/signal"
 	"syscall"

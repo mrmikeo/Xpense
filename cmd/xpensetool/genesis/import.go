@@ -2,9 +2,9 @@ package genesis
 
 import (
 	"fmt"
-	"github.com/Fantom-foundation/go-opera/cmd/sonictool/db"
-	"github.com/Fantom-foundation/go-opera/opera/genesis"
-	"github.com/Fantom-foundation/go-opera/opera/genesisstore"
+	"github.com/mrmikeo/Xpense/cmd/sonictool/db"
+	"github.com/mrmikeo/Xpense/opera/genesis"
+	"github.com/mrmikeo/Xpense/opera/genesisstore"
 	"github.com/Fantom-foundation/lachesis-base/abft"
 	"github.com/Fantom-foundation/lachesis-base/inter/idx"
 	"github.com/Fantom-foundation/lachesis-base/kvdb"

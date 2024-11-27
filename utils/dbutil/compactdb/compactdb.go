@@ -8,7 +8,7 @@ import (
 	"github.com/Fantom-foundation/lachesis-base/kvdb"
 	"github.com/Fantom-foundation/lachesis-base/kvdb/table"
 
-	"github.com/Fantom-foundation/go-opera/utils"
+	"github.com/mrmikeo/Xpense/utils"
 )
 
 type contCompacter struct {

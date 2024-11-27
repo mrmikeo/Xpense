@@ -2,7 +2,7 @@ package main
 
 import (
 	"fmt"
-	"github.com/Fantom-foundation/go-opera/config"
+	"github.com/mrmikeo/Xpense/config"
 	"gopkg.in/urfave/cli.v1"
 	"os"
 )

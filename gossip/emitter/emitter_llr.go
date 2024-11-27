@@ -7,8 +7,8 @@ import (
 	"github.com/Fantom-foundation/lachesis-base/inter/idx"
 	"github.com/Fantom-foundation/lachesis-base/utils/piecefunc"
 
-	"github.com/Fantom-foundation/go-opera/eventcheck/basiccheck"
-	"github.com/Fantom-foundation/go-opera/inter"
+	"github.com/mrmikeo/Xpense/eventcheck/basiccheck"
+	"github.com/mrmikeo/Xpense/inter"
 )
 
 var emptyLlrBlockVotes = inter.LlrBlockVotes{

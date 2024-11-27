@@ -18,7 +18,7 @@ package filters
 
 import (
 	"context"
-	"github.com/Fantom-foundation/go-opera/utils/adapters/ethdb2kvdb"
+	"github.com/mrmikeo/Xpense/utils/adapters/ethdb2kvdb"
 	"github.com/Fantom-foundation/lachesis-base/kvdb/table"
 	"io/ioutil"
 	"math/big"
@@ -26,7 +26,7 @@ import (
 	"path"
 	"testing"
 
-	"github.com/Fantom-foundation/go-opera/topicsdb"
+	"github.com/mrmikeo/Xpense/topicsdb"
 	"github.com/ethereum/go-ethereum/common"
 	"github.com/ethereum/go-ethereum/consensus/ethash"
 	"github.com/ethereum/go-ethereum/core"

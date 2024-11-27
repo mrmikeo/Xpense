@@ -3,8 +3,8 @@ package main
 import (
 	"compress/gzip"
 	"fmt"
-	"github.com/Fantom-foundation/go-opera/cmd/sonictool/chain"
-	"github.com/Fantom-foundation/go-opera/config/flags"
+	"github.com/mrmikeo/Xpense/cmd/sonictool/chain"
+	"github.com/mrmikeo/Xpense/config/flags"
 	"github.com/Fantom-foundation/lachesis-base/inter/idx"
 	"github.com/ethereum/go-ethereum/log"
 	"gopkg.in/urfave/cli.v1"

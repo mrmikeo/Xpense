@@ -8,7 +8,7 @@ import (
 	"github.com/Fantom-foundation/lachesis-base/inter/pos"
 	"github.com/Fantom-foundation/lachesis-base/utils/piecefunc"
 
-	"github.com/Fantom-foundation/go-opera/inter"
+	"github.com/mrmikeo/Xpense/inter"
 )
 
 func scalarUpdMetric(diff idx.Event, weight pos.Weight, totalWeight pos.Weight) ancestor.Metric {

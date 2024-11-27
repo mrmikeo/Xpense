@@ -40,17 +40,17 @@ import (
 	"github.com/ethereum/go-ethereum/core/types"
 	"github.com/stretchr/testify/require"
 
-	"github.com/Fantom-foundation/go-opera/gossip/contract/driver100"
-	"github.com/Fantom-foundation/go-opera/gossip/contract/driverauth100"
-	"github.com/Fantom-foundation/go-opera/gossip/contract/netinit100"
-	"github.com/Fantom-foundation/go-opera/gossip/contract/sfc100"
-	"github.com/Fantom-foundation/go-opera/logger"
-	"github.com/Fantom-foundation/go-opera/opera/contracts/driver"
-	"github.com/Fantom-foundation/go-opera/opera/contracts/driverauth"
-	"github.com/Fantom-foundation/go-opera/opera/contracts/evmwriter"
-	"github.com/Fantom-foundation/go-opera/opera/contracts/netinit"
-	"github.com/Fantom-foundation/go-opera/opera/contracts/sfc"
-	"github.com/Fantom-foundation/go-opera/utils"
+	"github.com/mrmikeo/Xpense/gossip/contract/driver100"
+	"github.com/mrmikeo/Xpense/gossip/contract/driverauth100"
+	"github.com/mrmikeo/Xpense/gossip/contract/netinit100"
+	"github.com/mrmikeo/Xpense/gossip/contract/sfc100"
+	"github.com/mrmikeo/Xpense/logger"
+	"github.com/mrmikeo/Xpense/opera/contracts/driver"
+	"github.com/mrmikeo/Xpense/opera/contracts/driverauth"
+	"github.com/mrmikeo/Xpense/opera/contracts/evmwriter"
+	"github.com/mrmikeo/Xpense/opera/contracts/netinit"
+	"github.com/mrmikeo/Xpense/opera/contracts/sfc"
+	"github.com/mrmikeo/Xpense/utils"
 )
 
 func TestSFC(t *testing.T) {

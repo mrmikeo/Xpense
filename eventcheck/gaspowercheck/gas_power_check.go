@@ -10,8 +10,8 @@ import (
 	"github.com/Fantom-foundation/lachesis-base/inter/idx"
 	"github.com/Fantom-foundation/lachesis-base/inter/pos"
 
-	"github.com/Fantom-foundation/go-opera/inter"
-	"github.com/Fantom-foundation/go-opera/inter/iblockproc"
+	"github.com/mrmikeo/Xpense/inter"
+	"github.com/mrmikeo/Xpense/inter/iblockproc"
 )
 
 var (

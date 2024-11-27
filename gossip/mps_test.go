@@ -8,10 +8,10 @@ import (
 	"github.com/ethereum/go-ethereum/common"
 	"github.com/stretchr/testify/require"
 
-	"github.com/Fantom-foundation/go-opera/eventcheck/basiccheck"
-	"github.com/Fantom-foundation/go-opera/eventcheck/heavycheck"
-	"github.com/Fantom-foundation/go-opera/inter"
-	"github.com/Fantom-foundation/go-opera/logger"
+	"github.com/mrmikeo/Xpense/eventcheck/basiccheck"
+	"github.com/mrmikeo/Xpense/eventcheck/heavycheck"
+	"github.com/mrmikeo/Xpense/inter"
+	"github.com/mrmikeo/Xpense/logger"
 )
 
 func copyBvs(bvs inter.LlrSignedBlockVotes) inter.LlrSignedBlockVotes {

@@ -5,8 +5,8 @@ import (
 
 	"github.com/ethereum/go-ethereum/crypto"
 
-	"github.com/Fantom-foundation/go-opera/inter/validatorpk"
-	"github.com/Fantom-foundation/go-opera/valkeystore/encryption"
+	"github.com/mrmikeo/Xpense/inter/validatorpk"
+	"github.com/mrmikeo/Xpense/valkeystore/encryption"
 )
 
 type MemKeystore struct {

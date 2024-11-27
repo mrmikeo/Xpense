@@ -7,10 +7,10 @@ import (
 	"github.com/ethereum/go-ethereum/core/types"
 	"math/big"
 
-	"github.com/Fantom-foundation/go-opera/eventcheck/gaspowercheck"
-	"github.com/Fantom-foundation/go-opera/inter"
-	"github.com/Fantom-foundation/go-opera/opera"
-	"github.com/Fantom-foundation/go-opera/utils/concurrent"
+	"github.com/mrmikeo/Xpense/eventcheck/gaspowercheck"
+	"github.com/mrmikeo/Xpense/inter"
+	"github.com/mrmikeo/Xpense/opera"
+	"github.com/mrmikeo/Xpense/utils/concurrent"
 )
 
 type GPOBackend struct {

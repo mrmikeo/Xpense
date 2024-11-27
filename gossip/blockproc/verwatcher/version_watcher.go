@@ -8,10 +8,10 @@ import (
 
 	"github.com/ethereum/go-ethereum/core/types"
 
-	"github.com/Fantom-foundation/go-opera/logger"
-	"github.com/Fantom-foundation/go-opera/opera/contracts/driver"
-	"github.com/Fantom-foundation/go-opera/opera/contracts/driver/driverpos"
-	"github.com/Fantom-foundation/go-opera/version"
+	"github.com/mrmikeo/Xpense/logger"
+	"github.com/mrmikeo/Xpense/opera/contracts/driver"
+	"github.com/mrmikeo/Xpense/opera/contracts/driver/driverpos"
+	"github.com/mrmikeo/Xpense/version"
 )
 
 type VerWarcher struct {

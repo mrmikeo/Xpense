@@ -3,7 +3,7 @@ module github.com/mrmikeo/Xpense
 go 1.21
 
 require (
-	github.com/Fantom-foundation/go-opera v1.1.3-rc.5
+	github.com/mrmikeo/Xpense v1.1.3-rc.5
 	github.com/Fantom-foundation/lachesis-base v0.0.0-20240116072301-a75735c4ef00
 	github.com/allegro/bigcache v1.2.1 // indirect
 	github.com/certifi/gocertifi v0.0.0-20191021191039-0944d244cd40 // indirect
@@ -76,6 +76,7 @@ require (
 	github.com/golang/snappy v0.0.4 // indirect
 	github.com/google/uuid v1.2.0 // indirect
 	github.com/gorilla/websocket v1.5.0 // indirect
+	github.com/graph-gophers/graphql-go v1.3.0 // indirect
 	github.com/holiman/uint256 v1.2.4 // indirect
 	github.com/huin/goupnp v1.0.3 // indirect
 	github.com/influxdata/influxdb v1.8.3 // indirect

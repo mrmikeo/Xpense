@@ -1,9 +1,9 @@
 package genesis
 
 import (
-	"github.com/Fantom-foundation/go-opera/opera"
-	"github.com/Fantom-foundation/go-opera/opera/genesis"
-	"github.com/Fantom-foundation/go-opera/opera/genesisstore"
+	"github.com/mrmikeo/Xpense/opera"
+	"github.com/mrmikeo/Xpense/opera/genesis"
+	"github.com/mrmikeo/Xpense/opera/genesisstore"
 	"github.com/Fantom-foundation/lachesis-base/hash"
 	"github.com/ethereum/go-ethereum/common"
 )

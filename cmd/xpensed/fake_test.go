@@ -1,7 +1,7 @@
 package main
 
 import (
-	"github.com/Fantom-foundation/go-opera/config"
+	"github.com/mrmikeo/Xpense/config"
 	"github.com/ethereum/go-ethereum/crypto"
 	"github.com/ethereum/go-ethereum/params"
 	"runtime"
@@ -9,8 +9,8 @@ import (
 	"testing"
 	"time"
 
-	"github.com/Fantom-foundation/go-opera/integration/makefakegenesis"
-	"github.com/Fantom-foundation/go-opera/inter/validatorpk"
+	"github.com/mrmikeo/Xpense/integration/makefakegenesis"
+	"github.com/mrmikeo/Xpense/inter/validatorpk"
 )
 
 const (

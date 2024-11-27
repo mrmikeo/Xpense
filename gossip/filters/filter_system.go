@@ -33,7 +33,7 @@ import (
 	"github.com/ethereum/go-ethereum/rpc"
 	"github.com/ethereum/go-ethereum/trie"
 
-	"github.com/Fantom-foundation/go-opera/evmcore"
+	"github.com/mrmikeo/Xpense/evmcore"
 )
 
 // Type determines the kind of filter and is used to put the filter in to

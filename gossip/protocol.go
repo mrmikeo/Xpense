@@ -8,11 +8,11 @@ import (
 	notify "github.com/ethereum/go-ethereum/event"
 	"math/big"
 
-	"github.com/Fantom-foundation/go-opera/evmcore"
-	"github.com/Fantom-foundation/go-opera/gossip/emitter"
-	"github.com/Fantom-foundation/go-opera/inter"
-	"github.com/Fantom-foundation/go-opera/inter/ibr"
-	"github.com/Fantom-foundation/go-opera/inter/iep"
+	"github.com/mrmikeo/Xpense/evmcore"
+	"github.com/mrmikeo/Xpense/gossip/emitter"
+	"github.com/mrmikeo/Xpense/inter"
+	"github.com/mrmikeo/Xpense/inter/ibr"
+	"github.com/mrmikeo/Xpense/inter/iep"
 )
 
 // Constants to match up protocol versions and messages

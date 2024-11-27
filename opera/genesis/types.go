@@ -4,8 +4,8 @@ import (
 	"github.com/Fantom-foundation/lachesis-base/hash"
 	"io"
 
-	"github.com/Fantom-foundation/go-opera/inter/ibr"
-	"github.com/Fantom-foundation/go-opera/inter/ier"
+	"github.com/mrmikeo/Xpense/inter/ibr"
+	"github.com/mrmikeo/Xpense/inter/ier"
 )
 
 type (

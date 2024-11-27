@@ -9,13 +9,13 @@ import (
 	"github.com/ethereum/go-ethereum/common"
 	"github.com/ethereum/go-ethereum/core/types"
 
-	"github.com/Fantom-foundation/go-opera/eventcheck"
-	"github.com/Fantom-foundation/go-opera/gossip/evmstore"
-	"github.com/Fantom-foundation/go-opera/inter"
-	"github.com/Fantom-foundation/go-opera/inter/iblockproc"
-	"github.com/Fantom-foundation/go-opera/inter/ibr"
-	"github.com/Fantom-foundation/go-opera/inter/ier"
-	"github.com/Fantom-foundation/go-opera/opera"
+	"github.com/mrmikeo/Xpense/eventcheck"
+	"github.com/mrmikeo/Xpense/gossip/evmstore"
+	"github.com/mrmikeo/Xpense/inter"
+	"github.com/mrmikeo/Xpense/inter/iblockproc"
+	"github.com/mrmikeo/Xpense/inter/ibr"
+	"github.com/mrmikeo/Xpense/inter/ier"
+	"github.com/mrmikeo/Xpense/opera"
 )
 
 var errValidatorNotExist = errors.New("validator does not exist")

@@ -2,9 +2,9 @@ package main
 
 import (
 	"fmt"
-	"github.com/Fantom-foundation/go-opera/cmd/sonictool/genesis"
-	ogenesis "github.com/Fantom-foundation/go-opera/opera/genesis"
-	"github.com/Fantom-foundation/go-opera/opera/genesisstore"
+	"github.com/mrmikeo/Xpense/cmd/sonictool/genesis"
+	ogenesis "github.com/mrmikeo/Xpense/opera/genesis"
+	"github.com/mrmikeo/Xpense/opera/genesisstore"
 	"github.com/ethereum/go-ethereum/common/hexutil"
 	"github.com/ethereum/go-ethereum/log"
 	"gopkg.in/urfave/cli.v1"

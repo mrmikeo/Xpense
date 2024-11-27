@@ -2,10 +2,10 @@ package db
 
 import (
 	"fmt"
-	"github.com/Fantom-foundation/go-opera/config"
-	"github.com/Fantom-foundation/go-opera/gossip"
-	"github.com/Fantom-foundation/go-opera/integration"
-	"github.com/Fantom-foundation/go-opera/inter/iblockproc"
+	"github.com/mrmikeo/Xpense/config"
+	"github.com/mrmikeo/Xpense/gossip"
+	"github.com/mrmikeo/Xpense/integration"
+	"github.com/mrmikeo/Xpense/inter/iblockproc"
 	"github.com/Fantom-foundation/lachesis-base/abft"
 	"github.com/Fantom-foundation/lachesis-base/common/bigendian"
 	"github.com/Fantom-foundation/lachesis-base/hash"

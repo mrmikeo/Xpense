@@ -7,7 +7,7 @@ import (
 
 	"github.com/ethereum/go-ethereum/log"
 
-	"github.com/Fantom-foundation/go-opera/utils"
+	"github.com/mrmikeo/Xpense/utils"
 )
 
 type Filelog struct {

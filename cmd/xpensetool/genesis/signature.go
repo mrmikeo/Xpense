@@ -2,7 +2,7 @@ package genesis
 
 import (
 	"fmt"
-	"github.com/Fantom-foundation/go-opera/opera/genesis"
+	"github.com/mrmikeo/Xpense/opera/genesis"
 	"github.com/ethereum/go-ethereum/common/math"
 	"github.com/ethereum/go-ethereum/crypto"
 	"github.com/ethereum/go-ethereum/signer/core"

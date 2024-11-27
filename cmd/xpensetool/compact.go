@@ -2,9 +2,9 @@ package main
 
 import (
 	"fmt"
-	"github.com/Fantom-foundation/go-opera/config/flags"
-	"github.com/Fantom-foundation/go-opera/integration"
-	"github.com/Fantom-foundation/go-opera/utils/dbutil/compactdb"
+	"github.com/mrmikeo/Xpense/config/flags"
+	"github.com/mrmikeo/Xpense/integration"
+	"github.com/mrmikeo/Xpense/utils/dbutil/compactdb"
 	"github.com/Fantom-foundation/lachesis-base/kvdb"
 	"github.com/ethereum/go-ethereum/ethdb"
 	"github.com/ethereum/go-ethereum/log"

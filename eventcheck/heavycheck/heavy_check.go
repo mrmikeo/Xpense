@@ -11,10 +11,10 @@ import (
 	"github.com/ethereum/go-ethereum/core/types"
 	"github.com/ethereum/go-ethereum/crypto"
 
-	"github.com/Fantom-foundation/go-opera/eventcheck/basiccheck"
-	"github.com/Fantom-foundation/go-opera/eventcheck/epochcheck"
-	"github.com/Fantom-foundation/go-opera/inter"
-	"github.com/Fantom-foundation/go-opera/inter/validatorpk"
+	"github.com/mrmikeo/Xpense/eventcheck/basiccheck"
+	"github.com/mrmikeo/Xpense/eventcheck/epochcheck"
+	"github.com/mrmikeo/Xpense/inter"
+	"github.com/mrmikeo/Xpense/inter/validatorpk"
 )
 
 var (

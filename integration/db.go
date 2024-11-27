@@ -2,9 +2,9 @@ package integration
 
 import (
 	"fmt"
-	"github.com/Fantom-foundation/go-opera/gossip"
-	"github.com/Fantom-foundation/go-opera/utils/dbutil/dbcounter"
-	"github.com/Fantom-foundation/go-opera/utils/dbutil/threads"
+	"github.com/mrmikeo/Xpense/gossip"
+	"github.com/mrmikeo/Xpense/utils/dbutil/dbcounter"
+	"github.com/mrmikeo/Xpense/utils/dbutil/threads"
 	"github.com/Fantom-foundation/lachesis-base/hash"
 	"github.com/Fantom-foundation/lachesis-base/inter/dag"
 	"github.com/Fantom-foundation/lachesis-base/kvdb"

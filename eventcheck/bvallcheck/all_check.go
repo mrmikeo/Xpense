@@ -1,7 +1,7 @@
 package bvallcheck
 
 import (
-	"github.com/Fantom-foundation/go-opera/inter"
+	"github.com/mrmikeo/Xpense/inter"
 )
 
 type Checker struct {

@@ -7,11 +7,11 @@ import (
 	"github.com/Fantom-foundation/lachesis-base/hash"
 	"github.com/Fantom-foundation/lachesis-base/inter/idx"
 
-	"github.com/Fantom-foundation/go-opera/inter"
-	"github.com/Fantom-foundation/go-opera/inter/ibr"
-	"github.com/Fantom-foundation/go-opera/inter/ier"
-	"github.com/Fantom-foundation/go-opera/logger"
-	"github.com/Fantom-foundation/go-opera/utils"
+	"github.com/mrmikeo/Xpense/inter"
+	"github.com/mrmikeo/Xpense/inter/ibr"
+	"github.com/mrmikeo/Xpense/inter/ier"
+	"github.com/mrmikeo/Xpense/logger"
+	"github.com/mrmikeo/Xpense/utils"
 )
 
 type dagSum struct {

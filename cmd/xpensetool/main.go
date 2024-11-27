@@ -2,9 +2,9 @@ package main
 
 import (
 	"fmt"
-	"github.com/Fantom-foundation/go-opera/config"
-	"github.com/Fantom-foundation/go-opera/config/flags"
-	_ "github.com/Fantom-foundation/go-opera/version"
+	"github.com/mrmikeo/Xpense/config"
+	"github.com/mrmikeo/Xpense/config/flags"
+	_ "github.com/mrmikeo/Xpense/version"
 	"github.com/ethereum/go-ethereum/params"
 	"gopkg.in/urfave/cli.v1"
 	"os"

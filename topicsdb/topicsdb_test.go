@@ -15,8 +15,8 @@ import (
 	"github.com/ethereum/go-ethereum/core/types"
 	"github.com/stretchr/testify/require"
 
-	"github.com/Fantom-foundation/go-opera/logger"
-	"github.com/Fantom-foundation/go-opera/utils/dbutil/threads"
+	"github.com/mrmikeo/Xpense/logger"
+	"github.com/mrmikeo/Xpense/utils/dbutil/threads"
 )
 
 func TestMain(m *testing.M) {

@@ -3,10 +3,10 @@ package main
 import (
 	"context"
 	"fmt"
-	"github.com/Fantom-foundation/go-opera/cmd/sonictool/genesis"
-	"github.com/Fantom-foundation/go-opera/config"
-	"github.com/Fantom-foundation/go-opera/integration/makefakegenesis"
-	futils "github.com/Fantom-foundation/go-opera/utils"
+	"github.com/mrmikeo/Xpense/cmd/sonictool/genesis"
+	"github.com/mrmikeo/Xpense/config"
+	"github.com/mrmikeo/Xpense/integration/makefakegenesis"
+	futils "github.com/mrmikeo/Xpense/utils"
 	"github.com/Fantom-foundation/lachesis-base/inter/idx"
 	"github.com/Fantom-foundation/lachesis-base/utils/cachescale"
 	"os"
@@ -18,7 +18,7 @@ import (
 	"github.com/ethereum/go-ethereum/common"
 	"github.com/ethereum/go-ethereum/rpc"
 
-	"github.com/Fantom-foundation/go-opera/cmd/cmdtest"
+	"github.com/mrmikeo/Xpense/cmd/cmdtest"
 )
 
 func tmpdir(t *testing.T) string {

@@ -9,7 +9,7 @@ import (
 	"github.com/Fantom-foundation/lachesis-base/gossip/basestream"
 	"github.com/Fantom-foundation/lachesis-base/gossip/basestream/basestreamseeder"
 
-	"github.com/Fantom-foundation/go-opera/gossip/protocols/blockrecords/brstream"
+	"github.com/mrmikeo/Xpense/gossip/protocols/blockrecords/brstream"
 )
 
 var (

@@ -7,8 +7,8 @@ import (
 	ethparams "github.com/ethereum/go-ethereum/params"
 	"github.com/ethereum/go-ethereum/rlp"
 
-	"github.com/Fantom-foundation/go-opera/inter/iblockproc"
-	"github.com/Fantom-foundation/go-opera/opera"
+	"github.com/mrmikeo/Xpense/inter/iblockproc"
+	"github.com/mrmikeo/Xpense/opera"
 )
 
 const sKey = "s"

@@ -32,9 +32,9 @@ import (
 	"github.com/ethereum/go-ethereum/params"
 	"github.com/ethereum/go-ethereum/rpc"
 
-	"github.com/Fantom-foundation/go-opera/evmcore"
-	"github.com/Fantom-foundation/go-opera/gossip/evmstore"
-	"github.com/Fantom-foundation/go-opera/topicsdb"
+	"github.com/mrmikeo/Xpense/evmcore"
+	"github.com/mrmikeo/Xpense/gossip/evmstore"
+	"github.com/mrmikeo/Xpense/topicsdb"
 )
 
 type testBackend struct {

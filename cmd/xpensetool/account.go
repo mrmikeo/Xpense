@@ -18,7 +18,7 @@ package main
 
 import (
 	"fmt"
-	"github.com/Fantom-foundation/go-opera/config"
+	"github.com/mrmikeo/Xpense/config"
 	"github.com/ethereum/go-ethereum/accounts/keystore"
 
 	"github.com/ethereum/go-ethereum/crypto"

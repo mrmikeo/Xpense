@@ -1,9 +1,9 @@
 package eventmodule
 
 import (
-	"github.com/Fantom-foundation/go-opera/gossip/blockproc"
-	"github.com/Fantom-foundation/go-opera/inter"
-	"github.com/Fantom-foundation/go-opera/inter/iblockproc"
+	"github.com/mrmikeo/Xpense/gossip/blockproc"
+	"github.com/mrmikeo/Xpense/inter"
+	"github.com/mrmikeo/Xpense/inter/iblockproc"
 )
 
 type ValidatorEventsModule struct{}

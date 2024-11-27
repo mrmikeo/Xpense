@@ -3,7 +3,7 @@ package emitter
 import (
 	"errors"
 	"fmt"
-	"github.com/Fantom-foundation/go-opera/utils/txtime"
+	"github.com/mrmikeo/Xpense/utils/txtime"
 	"github.com/ethereum/go-ethereum/metrics"
 	"math/rand"
 	"os"
@@ -18,12 +18,12 @@ import (
 	"github.com/Fantom-foundation/lachesis-base/utils/piecefunc"
 	"github.com/ethereum/go-ethereum/core/types"
 
-	"github.com/Fantom-foundation/go-opera/gossip/emitter/originatedtxs"
-	"github.com/Fantom-foundation/go-opera/inter"
-	"github.com/Fantom-foundation/go-opera/logger"
-	"github.com/Fantom-foundation/go-opera/tracing"
-	"github.com/Fantom-foundation/go-opera/utils/errlock"
-	"github.com/Fantom-foundation/go-opera/utils/rate"
+	"github.com/mrmikeo/Xpense/gossip/emitter/originatedtxs"
+	"github.com/mrmikeo/Xpense/inter"
+	"github.com/mrmikeo/Xpense/logger"
+	"github.com/mrmikeo/Xpense/tracing"
+	"github.com/mrmikeo/Xpense/utils/errlock"
+	"github.com/mrmikeo/Xpense/utils/rate"
 )
 
 const (

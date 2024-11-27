@@ -9,9 +9,9 @@ import (
 	"github.com/Fantom-foundation/lachesis-base/utils/datasemaphore"
 	"github.com/Fantom-foundation/lachesis-base/utils/workers"
 
-	"github.com/Fantom-foundation/go-opera/inter"
-	"github.com/Fantom-foundation/go-opera/inter/iep"
-	"github.com/Fantom-foundation/go-opera/inter/ier"
+	"github.com/mrmikeo/Xpense/inter"
+	"github.com/mrmikeo/Xpense/inter/iep"
+	"github.com/mrmikeo/Xpense/inter/ier"
 )
 
 var (

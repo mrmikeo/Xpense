@@ -3,7 +3,7 @@ package integration
 import (
 	"path"
 
-	"github.com/Fantom-foundation/go-opera/utils"
+	"github.com/mrmikeo/Xpense/utils"
 )
 
 func isInterrupted(chaindataDir string) bool {

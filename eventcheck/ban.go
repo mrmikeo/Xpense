@@ -5,8 +5,8 @@ import (
 
 	base "github.com/Fantom-foundation/lachesis-base/eventcheck"
 
-	"github.com/Fantom-foundation/go-opera/eventcheck/epochcheck"
-	"github.com/Fantom-foundation/go-opera/eventcheck/heavycheck"
+	"github.com/mrmikeo/Xpense/eventcheck/epochcheck"
+	"github.com/mrmikeo/Xpense/eventcheck/heavycheck"
 )
 
 var (

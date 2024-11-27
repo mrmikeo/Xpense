@@ -9,8 +9,8 @@ import (
 	"github.com/ethereum/go-ethereum/log"
 	"github.com/ethereum/go-ethereum/rlp"
 
-	"github.com/Fantom-foundation/go-opera/evmcore"
-	"github.com/Fantom-foundation/go-opera/inter"
+	"github.com/mrmikeo/Xpense/evmcore"
+	"github.com/mrmikeo/Xpense/inter"
 )
 
 func (s *Store) GetGenesisID() *hash.Hash {

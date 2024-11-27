@@ -4,7 +4,7 @@ import (
 	"github.com/Fantom-foundation/lachesis-base/kvdb/batched"
 	"github.com/syndtr/goleveldb/leveldb/opt"
 
-	"github.com/Fantom-foundation/go-opera/utils/dbutil/autocompact"
+	"github.com/mrmikeo/Xpense/utils/dbutil/autocompact"
 )
 
 func (s *Store) WrapTablesAsBatched() (unwrap func()) {

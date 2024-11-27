@@ -34,8 +34,8 @@ import (
 	"github.com/ethereum/go-ethereum/metrics"
 	"github.com/ethereum/go-ethereum/params"
 
-	"github.com/Fantom-foundation/go-opera/utils/signers/gsignercache"
-	"github.com/Fantom-foundation/go-opera/utils/txtime"
+	"github.com/mrmikeo/Xpense/utils/signers/gsignercache"
+	"github.com/mrmikeo/Xpense/utils/txtime"
 )
 
 const (
