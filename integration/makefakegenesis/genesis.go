@@ -28,7 +28,7 @@ import (
 	"github.com/mrmikeo/Xpense/opera/contracts/netinit"
 	netinitcall "github.com/mrmikeo/Xpense/opera/contracts/netinit/netinitcalls"
 	"github.com/mrmikeo/Xpense/opera/contracts/sfc"
-	"github.com/mrmikeo/Xpensea/opera/contracts/sfclib"
+	"github.com/mrmikeo/Xpense/opera/contracts/sfclib"
 	"github.com/mrmikeo/Xpense/opera/genesis"
 	"github.com/mrmikeo/Xpense/opera/genesis/gpos"
 	"github.com/mrmikeo/Xpense/opera/genesisstore"
