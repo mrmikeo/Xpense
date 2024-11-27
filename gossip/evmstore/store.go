@@ -3,9 +3,9 @@ package evmstore
 import (
 	"fmt"
 	carmen "github.com/Fantom-foundation/Carmen/go/state"
-	"github.com/Fantom-foundation/go-opera/logger"
-	"github.com/Fantom-foundation/go-opera/topicsdb"
-	"github.com/Fantom-foundation/go-opera/utils/rlpstore"
+	"github.com/mrmikeo/Xpense/logger"
+	"github.com/mrmikeo/Xpense/topicsdb"
+	"github.com/mrmikeo/Xpense/utils/rlpstore"
 	"github.com/Fantom-foundation/lachesis-base/kvdb"
 	"github.com/Fantom-foundation/lachesis-base/kvdb/table"
 	"github.com/Fantom-foundation/lachesis-base/utils/wlru"
