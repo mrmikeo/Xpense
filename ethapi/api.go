@@ -49,12 +49,12 @@ import (
 	"github.com/ethereum/go-ethereum/trie"
 	"github.com/tyler-smith/go-bip39"
 
-	"github.com/Fantom-foundation/go-opera/evmcore"
-	"github.com/Fantom-foundation/go-opera/gossip/gasprice"
-	"github.com/Fantom-foundation/go-opera/inter/state"
-	"github.com/Fantom-foundation/go-opera/opera"
-	"github.com/Fantom-foundation/go-opera/utils/signers/gsignercache"
-	"github.com/Fantom-foundation/go-opera/utils/signers/internaltx"
+	"github.com/mrmikeo/Xpense/evmcore"
+	"github.com/mrmikeo/Xpense/gossip/gasprice"
+	"github.com/mrmikeo/Xpense/inter/state"
+	"github.com/mrmikeo/Xpense/opera"
+	"github.com/mrmikeo/Xpense/utils/signers/gsignercache"
+	"github.com/mrmikeo/Xpense/utils/signers/internaltx"
 )
 
 const (
