@@ -1,0 +1,19 @@
+{
+  "rules": {
+    "networkName": "xpense",
+    "networkId": "0xA48C", /*42124*/
+    "MaxBlockGas": 20500000000,
+    "MaxEventGas": 10028000000,
+    "MaxEpochGas": 1500000000000,
+    "ShortGasAllocPerSec": 5600000000000,
+    "LongGasAllocPerSec": 2800000000000
+  },
+  "accounts": [
+    {
+      "name": "genesis1",
+      "address": "0x78125A463000a29c86bF075C98456cE43AD7f95c",
+      "balance": 30811437000000000000000000
+    }
+  ],
+  "txs": []
+}
