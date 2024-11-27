@@ -19,8 +19,8 @@
 package main
 
 import (
-	"github.com/Fantom-foundation/go-opera/cmd/sonicd/cmdhelper"
-	"github.com/Fantom-foundation/go-opera/config"
+	"github.com/mrmikeo/Xpense/cmd/sonicd/cmdhelper"
+	"github.com/mrmikeo/Xpense/config"
 	"io"
 	"sort"
 
