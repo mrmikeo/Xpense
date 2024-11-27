@@ -3,8 +3,8 @@ package main
 import (
 	"context"
 	"fmt"
-	"github.com/mrmikeo/Xpense/cmd/sonictool/db"
-	"github.com/mrmikeo/Xpense/cmd/sonictool/genesis"
+	"github.com/mrmikeo/Xpense/cmd/xpensetool/db"
+	"github.com/mrmikeo/Xpense/cmd/xpensetool/genesis"
 	"github.com/mrmikeo/Xpense/config/flags"
 	"github.com/mrmikeo/Xpense/integration"
 	"github.com/Fantom-foundation/lachesis-base/utils/cachescale"
