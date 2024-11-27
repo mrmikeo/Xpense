@@ -2,9 +2,9 @@ package main
 
 import (
 	"fmt"
-	"github.com/mrmikeo/Xpense/cmd/sonicd/diskusage"
-	"github.com/mrmikeo/Xpense/cmd/sonicd/metrics"
-	"github.com/mrmikeo/Xpense/cmd/sonicd/tracing"
+	"github.com/mrmikeo/Xpense/cmd/xpensed/diskusage"
+	"github.com/mrmikeo/Xpense/cmd/xpensed/metrics"
+	"github.com/mrmikeo/Xpense/cmd/xpensed/tracing"
 	"github.com/mrmikeo/Xpense/config"
 	"github.com/mrmikeo/Xpense/config/flags"
 	"github.com/ethereum/go-ethereum/eth/ethconfig"
