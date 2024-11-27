@@ -2,13 +2,13 @@ package main
 
 import (
 	"fmt"
-	"github.com/Fantom-foundation/go-opera/config"
+	"github.com/mrmikeo/Xpense/config"
 	"github.com/ethereum/go-ethereum/params"
 	"gopkg.in/urfave/cli.v1"
 	"os"
 	"runtime"
 
-	"github.com/Fantom-foundation/go-opera/gossip"
+	"github.com/mrmikeo/Xpense/gossip"
 )
 
 var (
