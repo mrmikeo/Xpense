@@ -5,7 +5,7 @@ import (
 	cc "github.com/Fantom-foundation/Carmen/go/common"
 	carmen "github.com/Fantom-foundation/Carmen/go/state"
 	_ "github.com/Fantom-foundation/Carmen/go/state/gostate"
-	"github.com/Fantom-foundation/go-opera/inter/state"
+	"github.com/mrmikeo/Xpense/inter/state"
 	"github.com/Fantom-foundation/lachesis-base/hash"
 	"github.com/Fantom-foundation/lachesis-base/inter/idx"
 	"github.com/ethereum/go-ethereum/common"
